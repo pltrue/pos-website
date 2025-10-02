@@ -25,6 +25,7 @@
 ---
 ## 🌐 Demo
 ลองใช้งานระบบได้ที่นี่ 👉 [Demo Website](https://systemposps.pages.dev)
+user : admin / password : admin
 ---
 
 ## 📸 Screenshots  
